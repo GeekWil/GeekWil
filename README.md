@@ -1,7 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Wilson! 
+<br><a href="https://www.linkedin.com/in/wilsonliu0911/">Network/Cloud/Cybersecurity</a>
+</h1>
 
+<h2>Projects:</h2>
+
+<h2>Certification:</h2>
+
+  - CCNA (Cisco certified network associate)
+  - Network+ (CompTIA)
+  - ACiT (Apple certified iPhone technician)
+  - Google IT support (Coursera)
+  
+  
 <!--
-**GeekWil/GeekWil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
